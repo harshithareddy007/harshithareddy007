@@ -108,7 +108,6 @@ Key Highlights
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshithareddy007&theme=default"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshithareddy007&theme=default"/>
 </p>
-
 ---
 
 # 🐍 Contribution Snake
@@ -150,7 +149,5 @@ CGPA: **8.85**
 ---
 
 <p align="center">
-
-✨ Exploring how <b>AI, design, and product thinking</b> can build meaningful digital products.
-
+✨ Designing meaningful digital products that combine AI, usability, and product thinking.
 </p>
