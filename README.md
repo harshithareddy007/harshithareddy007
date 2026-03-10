@@ -98,13 +98,19 @@ Key Highlights
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshithareddy007&theme=github_dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=harshithareddy007&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshithareddy007&theme=github_dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithareddy007&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshithareddy007&theme=tokyonight"/>
 
 </p>
 
