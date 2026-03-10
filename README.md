@@ -33,7 +33,7 @@ My interests include:
 
 # 🚀 Featured Projects
 
-## 🧠 SkillScope AI — Resume Intelligence Platform
+## 🧠 SkillScope AI - Resume Intelligence Platform
 
 AI-powered system designed to analyze resumes and generate personalized learning roadmaps.
 
@@ -46,7 +46,7 @@ Key Highlights
 
 ---
 
-## 🛡 ScamShield — LinkedIn Safety Concept
+## 🛡 ScamShield - LinkedIn Safety Concept
 
 Conceptual platform designed to detect suspicious LinkedIn profiles.
 
@@ -58,7 +58,7 @@ Key Highlights
 
 ---
 
-## 🩺 MediSpeak — AI Health Assistant *(Ideathon Winner)*
+## 🩺 MediSpeak - AI Health Assistant *(Ideathon Winner)*
 
 AI interface designed to simplify prescription understanding.
 
@@ -82,7 +82,7 @@ Key Highlights
 
 # 💼 Experience
 
-### UI/UX Intern — Cognifyz Technologies
+### UI/UX Intern - Cognifyz Technologies
 
 • Designed structured mobile user flows
 • Improved interface consistency across screens
@@ -90,7 +90,7 @@ Key Highlights
 
 ---
 
-### Open Source Contributor — GSSOC’25
+### Open Source Contributor - GSSOC’25
 
 • Contributed to web projects
 • Implemented feature improvements
@@ -101,17 +101,12 @@ Key Highlights
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=harshithareddy007&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithareddy007&layout=compact&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=harshithareddy007&theme=default&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshithareddy007&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshithareddy007&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshithareddy007&theme=default"/>
 </p>
 
 ---
@@ -137,12 +132,12 @@ Key Highlights
 
 # 🎓 Education
 
-**CMR Institute of Technology — Hyderabad**
+**CMR Institute of Technology - Hyderabad**
 
 B.Tech in Computer Science and Engineering
 CGPA: **8.85**
 
-2024 – 2028
+2024 - 2028
 
 ---
 
@@ -150,7 +145,7 @@ CGPA: **8.85**
 
 📧 [kondetiharshithareddy@gmail.com](mailto:kondetiharshithareddy@gmail.com)
 
-💼 LinkedIn — https://www.linkedin.com/in/harshitha-reddy-kondeti
+💼 LinkedIn - https://www.linkedin.com/in/harshitha-reddy-kondeti
 
 ---
 
