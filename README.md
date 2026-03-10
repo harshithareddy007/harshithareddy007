@@ -1,104 +1,163 @@
-# 👋 Hi, I'm Harshitha
+<h1 align="center">Hi, I'm Harshitha Reddy 👋</h1>
 
-🎨 Product-focused developer passionate about building **intuitive digital experiences, user-friendly interfaces, and meaningful products.**
+<p align="center">
+Computer Science undergraduate building <b>AI-integrated products</b> and intuitive digital experiences.<br>
+Passionate about combining <b>product thinking, UI/UX design, and intelligent systems</b> to solve real-world problems.
+</p>
 
-I enjoy transforming ideas into **well-designed, interactive applications** through **UI/UX thinking and frontend development.**
-
----
-
-## 🚀 Current Focus
-
-* Designing clean and intuitive user interfaces
-* Building responsive frontend applications
-* Exploring product design and user experience principles
-* Creating real-world projects with strong usability
+<p align="center">
+Hyderabad, India • CMR Institute of Technology
+</p>
 
 ---
 
-## 🧠 What I Love Building
+# 🧠 About Me
 
-* Interactive web applications
-* User-centered product interfaces
-* AI-powered product concepts
-* Design-focused digital experiences
+I am a Computer Science student focused on building **AI-powered products from concept to deployment**.
 
----
+My interests lie at the intersection of:
 
-## 🏆 Featured Projects
+• Product Design
+• AI-driven applications
+• Intelligent user interfaces
+• System workflow design
 
-### 🩺 MediSpeak
-
-A product concept focused on improving healthcare accessibility with features like:
-
-* Medication scanning
-* Multi-language support
-* Personalized health dashboards
-* Emergency assistance features
-* AI-powered health guidance
-
-Designed with **user accessibility and product usability in mind.**
+I enjoy transforming **ideas into structured, user-centered products** that are both technically sound and easy to use.
 
 ---
 
-### 🎮 Smart Interactive Logic Game
+# 🚀 Projects
 
-A user-friendly logic game focused on engagement and experience:
+## 🧠 SkillScope AI — Resume Intelligence Platform
 
-* Intelligent hints
-* Difficulty levels
-* Progress tracking
-* Leaderboards
-* Timer challenges
+AI-powered resume intelligence system designed to analyze profiles and recommend personalized learning paths.
 
-Designed to improve **interaction and engagement design.**
+Key Contributions:
 
----
+• Built resume parsing system using Python
+• Implemented skill-gap detection logic
+• Integrated LLM prompt workflows for learning recommendations
+• Designed modular backend architecture for scalable feature expansion
 
-## 🛠 Tools & Technologies
-
-**Frontend**
-
-* HTML
-* CSS
-* JavaScript
-* React
-
-**Design & Product Thinking**
-
-* UI/UX Design
-* User Flow Planning
-* Product Feature Structuring
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
+Focus: **AI product systems + intelligent recommendations**
 
 ---
 
-## 📊 GitHub Stats
+## 🛡 ScamShield — LinkedIn Safety Concept
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshithareddy007&theme=github_dark)
+A conceptual system designed to identify risky LinkedIn profiles and detect potential scams.
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshithareddy007&theme=github_dark)
+Key Contributions:
 
----
+• Designed rule-based risk detection model
+• Modeled behavioral indicators for threat scoring
+• Developed workflow for safety categorization
+• Conducted usability validation for social media risk scenarios
 
-## 🎯 2026 Goals
-
-* Improve frontend architecture skills
-* Build visually polished real-world products
-* Develop strong UI/UX design understanding
-* Create projects that focus on **user experience and product quality**
+Focus: **product safety systems + user protection**
 
 ---
 
-## 🤝 Connect With Me
+## 🩺 MediSpeak — AI Health Assistant *(Ideathon Winner)*
 
-💼 LinkedIn: *(add your link)*
-🌐 Portfolio: *(add your link)*
+AI-powered health interface designed to simplify medical prescriptions and improve patient understanding.
+
+Key Contributions:
+
+• Designed prescription interpretation interface
+• Built structured input-processing workflow
+• Developed responsive UI using HTML, CSS, Tailwind CSS
+
+Focus: **AI usability + healthcare accessibility**
 
 ---
 
-⭐ *Always exploring how technology and design come together to create better products.*
+# 💼 Experience
+
+## UI/UX Intern — Cognifyz Technologies
+
+• Designed structured mobile user flows and interface layouts
+• Collaborated with developers to convert design specifications into functional UI components
+• Applied usability principles to improve interaction consistency
+• Standardized design components across multiple screens
+
+---
+
+## Open Source Contributor — GSSOC’25
+
+• Contributed to web-based open source projects
+• Improved code structure and implemented feature enhancements
+• Worked with Git workflows including pull requests, issues, and reviews
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+Python • C • Java
+
+### Frontend
+
+HTML • CSS • Tailwind CSS
+
+### AI & Systems
+
+LLM Prompt Engineering
+System Workflow Design
+Feature Architecture
+
+### Database
+
+MySQL
+
+### Tools
+
+Git • GitHub • Postman
+
+### Data & Analytics
+
+Tableau • Power BI
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshithareddy007&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshithareddy007&theme=github_dark"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+• Building AI-integrated product systems
+• Improving frontend product experience
+• Learning advanced UI/UX design principles
+• Developing real-world intelligent applications
+
+---
+
+# 🎓 Education
+
+**CMR Institute of Technology — Hyderabad**
+
+B.Tech in Computer Science and Engineering
+CGPA: **8.85**
+
+2024 — 2028
+
+---
+
+# 🤝 Connect With Me
+
+LinkedIn — (add your link)
+Portfolio — (add your link)
+Email — [kondetiharshithareddy@gmail.com](mailto:kondetiharshithareddy@gmail.com)
+
+---
+
+<p align="center">
+⭐ Exploring how <b>AI, design, and product thinking</b> can create meaningful digital experiences.
+</p>
