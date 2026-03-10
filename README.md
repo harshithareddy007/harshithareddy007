@@ -79,9 +79,7 @@ Designed to improve **interaction and engagement design.**
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-![Harshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshithareddy007&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshithareddy007&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithareddy007&layout=compact&theme=tokyonight)
 
